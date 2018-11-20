@@ -4,6 +4,7 @@
 class Deck
 {
     private:
+        int CARD_DECK[52];
             
     public:
         Deck();
